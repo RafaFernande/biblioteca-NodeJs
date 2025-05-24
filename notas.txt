@@ -1,0 +1,10 @@
+Iniciar projeto
+nest new "nome_projeto"
+
+Rodar projeto a atualziar automaticamente
+npm run start:dev
+
+gerar arquivos controller, service e module automaticamente
+nest g controller "pasta" --no-spec
+nest g service "pasta" --no-spec
+nest g module "pasta"
