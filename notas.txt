@@ -1,4 +1,4 @@
-Iniciar projeto
+Iniciar projeto:
 nest new "nome_projeto"
 
 Rodar projeto a atualziar automaticamente
